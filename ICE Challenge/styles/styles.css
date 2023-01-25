@@ -1,0 +1,40 @@
+#prophet-img{
+    max-width: 150px;
+} 
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+    background-color: #FCA6C9;
+    
+}
+#title{
+    text-align: center;
+    color: white; 
+}
+#prophet{
+    text-align: center; 
+}
+.before-img{
+    text-align: center;
+    color: white;
+    
+}
+.after-img{
+    text-align: center; 
+    color: white;
+}
+.quote{
+    text-align: center;
+}
+.prophet-img{
+
+    text-align: center; 
+}
+.item{
+    text-align: left;
+    list-style-position: inside;
+}
+.list{
+    margin:  0 auto;
+}
+
